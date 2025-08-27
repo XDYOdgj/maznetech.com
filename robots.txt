@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://maznetech.com/sitemap.xml
